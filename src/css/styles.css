@@ -45,7 +45,7 @@ body {
 .hero {
   grid-area: hero;
   height: 89vh;
-  background: url('../img/lemons.jpg') center center no-repeat;
+  background: url('../img/hero.jpg') center center no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -178,18 +178,18 @@ body {
   line-height: 25px;
 }
 
-.services .service:nth-child(1){
-  background-color: lightskyblue;
+.services .service:nth-child(1) {
+  background-color: lightgreen;
 }
 
-.services .service:nth-child(2){
+.services .service:nth-child(2) {
   background-color: lightpink;
 }
 
 @media (max-width: 425px) {
- .services {
-  grid-template-columns: 1fr;
- }
+  .services {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* PROJECTS */
@@ -209,20 +209,19 @@ body {
   opacity: 0.8;
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
   .projects {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
   }
 }
 
-@media (max-width: 425px){
+@media (max-width: 425px) {
   .projects {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(4, 1fr);
   }
 }
-
 
 /* FOOTER */
 .footer {
