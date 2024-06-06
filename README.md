@@ -1,6 +1,6 @@
 ## Agência XYZ
 
-<img src="https://media.licdn.com/dms/image/D4D22AQEFX_DnPiWtQg/feedshare-shrink_2048_1536/0/1712278751072?e=1717027200&v=beta&t=wh8YJ4nZc5l0hju3HN6Pf5GNeHo50xe6bv36w3-_HMg" />
+<img src="https://media.licdn.com/dms/image/D4D22AQEFX_DnPiWtQg/feedshare-shrink_2048_1536/0/1712278751072?e=1720656000&v=beta&t=PK9RObkLy68RfZo9vGGQwPReyywpPWdfX1iIcNnHR7U" />
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
